@@ -1,0 +1,25 @@
+.flex-column{
+ display: flex;
+ align-items: center;
+ margin-top: 50px;
+ height:600px ;
+
+}
+.nav-link{
+    width: 200px;
+    color: black; 
+}
+.item{
+    padding: 15px 0 15px 60px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    text-decoration: none;
+color: inherit;
+}
+body {
+    overflow-x: hidden;
+}
+.item:hover{
+ background-color:  rgb(63, 189, 59);
+}

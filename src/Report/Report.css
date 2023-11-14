@@ -1,0 +1,10 @@
+.Report-layout{
+    background-color: rgb(240, 236, 236);
+    width: 100%;
+    height: auto;
+    display:flex;
+    flex-direction: row;
+   @media (min-width: 992px) {
+    max-width: 85%;
+   }
+}

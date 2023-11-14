@@ -1,0 +1,28 @@
+.Account-Latout{
+    background-color: white;
+    border-radius: 5px;
+    width: 590px;
+    height: 400px;
+    margin-top:50px ;
+    margin-left: 10px; 
+   display: block;
+}
+.table
+    {
+    width: auto;
+}
+.Account-Heading{
+    display: flex;
+    align-items: center;
+    height: 65px;
+}
+.table-layout{
+   padding-top:20px ;
+}
+.heading-color{
+    color: rgb(187, 184, 184);
+}
+table{
+    margin-top: 20px;
+    margin-top: 20px;
+}

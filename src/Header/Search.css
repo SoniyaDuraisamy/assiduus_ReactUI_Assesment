@@ -1,0 +1,27 @@
+
+.Search-input{
+    border-radius: 15px;
+    border: 0px solid gray;
+    padding: 10px;
+    background-color: rgb(240, 236, 236);
+    width:300px;
+}
+.Search-layout{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
+}
+img {
+   width: 55px;
+   height: 55px;
+}
+.cmp-search {
+    position: relative;
+}
+.cmp-search  svg {
+    position: absolute;
+    top: 37%;
+    left: 4%;
+}

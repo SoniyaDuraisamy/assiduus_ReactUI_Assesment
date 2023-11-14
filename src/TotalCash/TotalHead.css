@@ -1,0 +1,49 @@
+.cash-layout{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.btn-Layout{
+    display: flex;
+    flex-direction: row;
+}
+.button-layout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 5px;
+}
+.out-layout span{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(71, 183, 71);
+    border-radius: 3px;
+    top: 20%;
+    margin-right: 20px;
+    position: relative;
+    display: inline-block;
+}
+.in-layout span{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(2, 187, 125);
+    border-radius: 3px;
+    top: 20%;
+    margin-right: 20px;
+    position: relative;
+    display: inline-block;
+}
+.in-layout{
+    display: flex;
+    flex-direction: row;
+}
+.out-layout{
+    display: flex;
+    flex-direction: row;
+}
+.heading-cash{
+    margin-bottom: 5px; 
+}

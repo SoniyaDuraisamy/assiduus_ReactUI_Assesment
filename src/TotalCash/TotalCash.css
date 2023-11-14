@@ -1,0 +1,20 @@
+.domain{
+    stroke:none
+}
+.tick line{
+   display: none;
+}
+text{
+    font-size: 15px; 
+}
+.TotalCash-layout {
+    display: flex;
+    flex-direction: row;}
+.TotalCash-layout{
+    background-color: white;
+    border-radius: 5px;
+    width: 590px;
+    height: 400px;
+    margin-top:50px ;
+    margin-left: 10px; 
+}

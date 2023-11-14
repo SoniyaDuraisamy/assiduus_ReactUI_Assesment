@@ -1,0 +1,20 @@
+.chart-Layout{
+    background-color: white;
+    border-radius: 5px;
+    width: 590px;
+    height: 400px;
+    margin-top:50px ;
+    margin-left: 10px;
+}
+.Heading-Row{
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+}
+.Header{
+    margin-bottom: 0px;
+   margin-top: 8px;
+}
+.btn-layout{
+    margin-right: 10px;
+}

@@ -1,0 +1,70 @@
+.Invoice-Latout {
+  background-color: white;
+  border-radius: 5px;
+  width: 590px;
+  height: 400px;
+  margin-top: 50px;
+  margin-left: 10px;
+
+}
+
+.Invoice-start {
+  height: 13%;
+  margin-bottom: 15px;
+}
+
+.invoice-end {
+
+  display: flex;
+  flex-direction: row;
+}
+
+.Header-space {
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+.Header-space h6 {
+  margin-top: 5px;
+}
+
+.Invoice-input {
+  border-radius: 5px;
+  border: none;
+  padding: 8px 30px 8px 30px;
+  background-color: rgb(240, 236, 236);
+  margin-left: 60px;
+  color: rgb(63, 189, 59);
+
+}
+
+
+.chart-bar {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chart-bar__inner {
+
+  width: 50%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 25px;
+}
+
+.chart-bar__fill {
+  /* width: ; */
+  background-color: rgb(63, 189, 59);
+  width: 30%;
+  border-radius: 5px;
+}
+
+.chart-bar__label {
+  text-align: right;
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+}
